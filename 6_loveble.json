@@ -1,0 +1,44 @@
+{
+  "name": "6_loveble",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "bb35cbc1-b6d2-421c-a42a-3674f0d45483",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2.1,
+      "position": [
+        0,
+        0
+      ],
+      "id": "e7d17a0c-9e88-46df-9827-a665b9e6b88f",
+      "name": "Webhook",
+      "webhookId": "bb35cbc1-b6d2-421c-a42a-3674f0d45483"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Webhook": {
+      "main": [
+        []
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "executionOrder": "v1",
+    "availableInMCP": false,
+    "timeSavedMode": "fixed",
+    "callerPolicy": "workflowsFromSameOwner",
+    "executionTimeout": -1
+  },
+  "versionId": "13df5c72-9b2e-47e7-9fcb-ae94ca84a610",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "affc267024c6da2f4cda14cbd73e475db9af41531ee1eef3aebfd1271fadcff1"
+  },
+  "id": "Sy3p2EdNbtNaEaBlhH-oC",
+  "tags": []
+}
